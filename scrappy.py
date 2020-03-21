@@ -17,7 +17,6 @@ import sys
 import traceback
 import json
 from discord.utils import get
-import youtube_dl
 import cat
 import shutil
 import subprocess
