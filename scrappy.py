@@ -456,6 +456,6 @@ async def info(ctx):
 
     await ctx.send(embed=embed)
                    
-bot.run ("NjkwNjI3MTQyMzc1MTc4MzQx.XnXJwA.TJqJY02NUUYkN2TsKM9_ASPK7ak")
+bot.run("NjkwNjI3MTQyMzc1MTc4MzQx.XnXJwA.TJqJY02NUUYkN2TsKM9_ASPK7ak")
 
 
